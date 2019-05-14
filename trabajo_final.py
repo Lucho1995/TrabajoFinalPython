@@ -16,3 +16,7 @@ while True:
             sys.exit()
 
     pygame.display.update()
+slrgjoidfgoi´sjgposMGPORWJGPORMG
+slrgjoidfgoi´sjgposMGPORWJGPORMGSG
+slrgjoidfgoi´sjgposMGPORWJGPORMGSGSBS
+RB
